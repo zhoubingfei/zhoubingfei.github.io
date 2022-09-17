@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2022/08/30/wo-de-di-yi-pian-bo-ke/"/>
+      <url>/2022/08/30/wo-de-di-yi-pian-bo-ke/</url>
+      
+        <content type="html"><![CDATA[<p>title: 千呼万唤始出来——我的第一篇博客<br>date: 2022-08-30 20:45:21<br>tags: [博客搭建tips,未来展望]</p><h1 id=""><a href="#" class="headerlink" title=""></a></h1><h4 id="从今天开始我也是有博客的人啦"><a href="#从今天开始我也是有博客的人啦" class="headerlink" title="从今天开始我也是有博客的人啦"></a>从今天开始我也是有博客的人啦</h4><p>暑假里偶然在B站上看到有关博客的视频，发现从事计算机类相关专业的人好像都有使用博客记录自己的项目工作代码等的习惯，因此我也在参考了许多内容资料，历经波折之后，拥有了自己的博客。在这篇文章，我想分享一下自己（纯小白）搭建博客的一些参考资料抑或是出的错。以后，我希望自己可以坚持每天学习总结一些知识，不论是专业课还是自学拓展的内容。加油加油！  </p><hr><h5 id="首先，为什么要写博客"><a href="#首先，为什么要写博客" class="headerlink" title="首先，为什么要写博客"></a>首先，为什么要写博客</h5><p>B站UP主 CodeSheep 提到了三点：1.简历加分2.总结加深理解，建立自己的知识清单3.提高表达能力<br><a href="https://www.bilibili.com/video/BV1Px411d74c/?spm_id_from=333.788.recommend_more_video.1&amp;vd_source=6d1e0e2d4fa01cc846ca0cc0cd9d4699">https://www.bilibili.com/video/BV1Px411d74c/?spm_id_from=333.788.recommend_more_video.1&amp;vd_source=6d1e0e2d4fa01cc846ca0cc0cd9d4699</a><br>我主要是希望将写博客变成监督自己每天有效果的学习的一种工具，不要局限于老师讲的知识，不要局限于期末考试。</p><hr><h5 id="我的博客搭建历程"><a href="#我的博客搭建历程" class="headerlink" title="我的博客搭建历程"></a>我的博客搭建历程</h5><p>四处碰壁+柳暗花明又一村<br>首先最重要的一点，不要畏惧它，大不了重来。<br>第二，我参考的资料：  </p><ol><li>B站UP主CodeSheep（手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo）以及下面的评论<br>2.2021最全hexo搭建博客+matery美化+使用（保姆级教程）<br><a href="https://www.bilibili.com/read/cv12633102">https://www.bilibili.com/read/cv12633102</a><br>3.使用hexo搭建的过程中按照1、2的步骤来，如果出现报错，直接复制报错内容去浏览器搜，csdn里基本都有解决办法</li></ol><hr><h5 id="未来展望"><a href="#未来展望" class="headerlink" title="未来展望"></a>未来展望</h5><p>坚持更，记录自己在大学最后两年每一天的收获。  </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/08/13/hello-world/"/>
       <url>/2022/08/13/hello-world/</url>
